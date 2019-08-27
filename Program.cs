@@ -6,7 +6,7 @@ namespace Calculator_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Let's build a calculator!");
         }
     }
 }
